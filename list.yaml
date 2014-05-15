@@ -1408,11 +1408,16 @@
   github: 'skx/templer'
   license: 'GPL'  # dual-licensed with Perl Aristic
 
-
 - name: 'Tempo'
   github: 'catnapgames/Tempo'
   license: 'MIT'
 
+- name: 'Tinkerer'
+  description: 'Tinkerer is a blogging engine/static website generator powered by Sphinx.'
+  website: 'http://tinkerer.me/'
+  github: 'vladris/tinkerer'
+  license: 'BSD'
+  language: 'Python'
 
 - name: 'toto'
   github: 'cloudhead/toto'
